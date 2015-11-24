@@ -1,6 +1,8 @@
 ## なにこれ
 よくあるconsoleラッパー。  
-require()のキャッシュを利用して同ディレクトリ内モジュールのコンソール動作を一括設定する。
+require()のキャッシュを利用して同ディレクトリ内モジュールのコンソール動作を一括設定する。  
+[honeo/console-wrapper](https://github.com/honeo/console-wrapper)  
+[console-wrapper](https://www.npmjs.com/package/console-wrapper)
 
 ## 使い方
 ```sh
