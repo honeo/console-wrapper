@@ -1,6 +1,4 @@
-'use strict';
-
-// 元
+// native console
 const _console = console;
 
 // ダミー用
@@ -107,4 +105,4 @@ Console.prototype.__defineGetter__('sync', function(){
 		this;
 });
 
-export default new Console();
+module.exports = new Console();
